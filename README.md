@@ -41,4 +41,5 @@ Alternative hypothesis:
 Ha= NO2 values are comparatively less during March 2020.
 
 
-data/t-test.png
+![t-test](data/t-test.png)
+
