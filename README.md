@@ -43,3 +43,4 @@ Ha= NO2 values are comparatively less during March 2020.
 
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/master/images/t-test.png)
 
+A p-value of 0.008 was found from the t-test.  With a 0.05 alpha threshold, the null hypothesis is rejected.
