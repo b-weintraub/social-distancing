@@ -1,5 +1,5 @@
 <p align="center">
-**Social distancing effects on the environment**
+Social distancing effects on the environment
 
 Benjamin A. Weintraub
 /p>
