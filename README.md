@@ -1,7 +1,8 @@
-Social distancing effects on the environment
+##Social distancing effects on the environment
 Benjamin A. Weintraub
 
-Table of Contents 
+
+#Table of Contents 
 -Background (social distancing, air quality environmental metrics) 
 -Data (source, hypothesis) 
 -Analysis (t-test, location differences) 
