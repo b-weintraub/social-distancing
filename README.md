@@ -1,4 +1,5 @@
 **Social distancing effects on the environment**
+
 Benjamin A. Weintraub
 
 
