@@ -40,3 +40,5 @@ Ho = There is no difference in NO2 values between March 2019 and March 2020.
 Alternative hypothesis:
 Ha= NO2 values are comparatively less during March 2020.
 
+
+data/t-test.png
