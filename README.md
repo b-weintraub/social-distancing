@@ -4,6 +4,7 @@ Benjamin A. Weintraub
 
 
 **Table of Contents**
+
 -Background (social distancing, air quality environmental metrics) 
 -Data (source, hypothesis) 
 -Analysis (t-test, location differences) 
@@ -13,6 +14,7 @@ Benjamin A. Weintraub
 
 
 **Background**
+
 In response to the COVID19 pandemic, governments are enacting social distancing guidelines to slow the spread of the virus.  This study investigates the environmental impact of social distancing with a focus on air quality effects.  Due to social distancing, there has been a decline in motor vehicle and airplane transportation, both major carbon producers as they rely on fossil fuel combustion.  
 
 Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emissions from cars, trucks, buses, power plants, and airplanes.  It forms through a two-step process .  At elevated temperatures during combustion, N2 is oxidized forming an intermediate, nitric oxide (NO) – (eqn 1). In an oxygen-rich environment, nitric oxide further oxidizes to NO2. (eqn 2)
