@@ -1,5 +1,6 @@
+<p align="center">
 **Social distancing effects on the environment**
-
+/p>
 Benjamin A. Weintraub
 
 
