@@ -9,7 +9,7 @@ Social distancing effects on the environment
 	Background (social distancing, air quality environmental metrics) 
 	Data (source, hypothesis) 
 	Analysis (t-test, location differences) 
-	Discussion (Take Away, Final Thoughts, Future-steps)
+	Discussion
 
 
 
@@ -56,4 +56,5 @@ Ha= NO2 values are comparatively less during March 2020.
 
 A p-value of 0.008 was found from the t-test.  With a 0.05 alpha threshold, the null hypothesis is rejected.
 
-change
+**Discussion**
+(Take Away, Final Thoughts, Future-steps)
