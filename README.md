@@ -18,7 +18,7 @@ Discussion
 
 
 
-##Background##
+### Background
 
 In response to the COVID19 pandemic, governments are enacting social distancing guidelines to slow the spread of the virus.  This study investigates the environmental impact of social distancing with a focus on air quality effects.  Due to social distancing, there has been a decline in motor vehicle and airplane transportation, both major carbon producers as they rely on fossil fuel combustion.  
 
@@ -32,7 +32,7 @@ O2 + N2 → 2 NO 		(1)
 
 Elevated levels of NO2 are known to cause respiratory problems for individuals, particularly those with asthma.
 
-**Data**
+### Data
 
 This study examines the following question:
 
@@ -44,7 +44,7 @@ https://fortress.wa.gov/ecy/enviwa/
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/data_snapshot_all_dates.png)
 
 
-**Analysis**
+### Analysis
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/NO2-conc-time-series.png)
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/2020_time_series_plot.png)
 
@@ -61,5 +61,5 @@ Ha= NO2 values are comparatively less during March 2020.
 
 A p-value of 0.008 was found from the t-test.  With a 0.05 alpha threshold, the null hypothesis is rejected.
 
-**Discussion**
+### Discussion
 (Take Away, Final Thoughts, Future-steps)
