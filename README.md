@@ -29,7 +29,7 @@ Air quality is measured looking a number of metrics including carbon monoxide (C
 | carbon monoxide (CO)    | 9 ppm | 8 hrs |
 | lead (Pb)      | 0.15 ug/m3      |   rolling 3 mo. average |
 | nitrogen dioxide (NO2) | 100 ppb      |    1 hr |
-| O3 | 70 ppb      |    8 hr |
+| ozone (O3) | 70 ppb      |    8 hr |
 |   Particle pollution (PM2.5) | 35 ug/m3      |    24 hr |
  |   Particle pollution (PM10) | 150 ug/m3      |    24 hr |
  |   Sulfur dioxide | 75 ppb     |    1 hr |
