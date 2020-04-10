@@ -24,6 +24,11 @@ In response to the COVID19 pandemic, governments are enacting social distancing 
 
 Air quality is measured looking a number of metrics including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), nitrogen dioxide(NO2), lead pollution, and particle pollution.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emissions from cars, trucks, buses, power plants, and airplanes.  It forms through a two-step process .  At elevated temperatures during combustion, N2 is oxidized forming an intermediate, nitric oxide (NO) – (eqn 1). In an oxygen-rich environment, nitric oxide further oxidizes to NO2. (eqn 2)
 
