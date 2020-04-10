@@ -32,12 +32,17 @@ Elevated levels of NO2 are known to cause respiratory problems for individuals, 
 
 **Data**
 
+Air quality data were collected from the WA Dept of Ecology.
+https://fortress.wa.gov/ecy/enviwa/
+
 This study examines the following question:
 
 Is there a difference in NO2 concentration levels since social distancing measures started?
 
-Air quality data were collected from the WA Dept of Ecology.
-https://fortress.wa.gov/ecy/enviwa/
+
+**Analysis**
+
+![t-test](https://github.com/b-weintraub/social-distancing/blob/master/images/t-test.png)
 
 
 Specifically, concentration values from March 2019 and March 2020 were compared to see if they difference were statistically significant. 
