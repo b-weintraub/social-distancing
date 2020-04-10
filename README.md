@@ -54,6 +54,7 @@ Is there a difference in NO2 concentration levels since social distancing measur
 Air quality data were collected from the WA Dept of Ecology.
 https://fortress.wa.gov/ecy/enviwa/
 
+Here's a snapshot of the data:
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/data_snapshot_all_dates.png)
 
 
