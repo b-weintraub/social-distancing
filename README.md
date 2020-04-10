@@ -24,7 +24,7 @@ In response to the COVID19 pandemic, governments are enacting social distancing 
 
 Air quality is measured looking a number of metrics including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), nitrogen dioxide(NO2), lead pollution, and particle pollution. The EPA has set the following levels for air pollutants according to the Clean Air Act as follows.
 
-| Pollutant       | Level           | average time exposure  |
+| Pollutant       | Level*           | average time exposure  |
 | ------------- |:-------------:| -----:|
 | carbon monoxide (CO)    | 9 ppm | 8 hrs |
 | lead (Pb)      | 0.15 ug/m3      |   rolling 3 mo. average |
@@ -33,6 +33,8 @@ Air quality is measured looking a number of metrics including carbon monoxide (C
 |   Particle pollution (PM2.5) | 35 ug/m3      |    24 hr |
  |   Particle pollution (PM10) | 150 ug/m3      |    24 hr |
  |   Sulfur dioxide | 75 ppb     |    1 hr |
+
+*https://www.epa.gov/criteria-air-pollutants/naaqs-table
 
 Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emissions from cars, trucks, buses, power plants, and airplanes.  It forms through a two-step process .  At elevated temperatures during combustion, N2 is oxidized forming an intermediate, nitric oxide (NO) – (eqn 1). In an oxygen-rich environment, nitric oxide further oxidizes to NO2. (eqn 2)
 
