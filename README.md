@@ -37,7 +37,7 @@ Air quality data were collected from the WA Dept of Ecology.
 https://fortress.wa.gov/ecy/enviwa/
 
 **Analysis**
-![t-test](https://github.com/b-weintraub/social-distancing/blob/master/images/NO2-conc-time-series.png)
+![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/NO2-conc-time-series.png)
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/master/images/t-test.png)
 
 Specifically, concentration values from March 2019 and March 2020 were compared to see if they difference were statistically significant. 
