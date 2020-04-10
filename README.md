@@ -7,11 +7,11 @@
 
 ## Table of Contents
 
-Background (social distancing, air quality environmental metrics)
+Background
 
-Data (source, hypothesis) 
+Data 
 
-Analysis (t-test, location differences) 
+Analysis
 
 Discussion
 
