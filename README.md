@@ -59,6 +59,7 @@ https://fortress.wa.gov/ecy/enviwa/
 Here's a snapshot of the data:
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/data_snapshot_all_dates.png)
 
+The data was cleaned to remove null values and represent appropriate data types for further analysis.
 
 ### Analysis
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/NO2-conc-time-series.png)
