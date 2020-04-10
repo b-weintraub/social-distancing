@@ -82,7 +82,15 @@ Ha= NO2 values are comparatively less during March 2020.
 
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/master/images/t-test.png)
 
-The conditional probability of these two concentration values being statistically identifical is 0.008 (p-value) as determined by a t-test.  Using a 0.05 alpha threshold, the null hypothesis is rejected.
+
 
 ### Discussion
-(Take Away, Final Thoughts, Future-steps)
+
+The conditional probability of these two concentration values being statistically identifical is 0.008 (p-value) as determined by a t-test.  Using a 0.05 alpha threshold, the null hypothesis is rejected.  It's suggested that the drop in NO2 concentration level in March 2020 compared to the previous year is statistically significant.  It CANNOT be confirmed that social distancing is the cause of the drop in air pollution although it's suggestive.
+
+This study has brought up new questions to investigate in the future including the following.
+
+#### How has social distancing effected other airborne pollutants?
+#### What are the regional difference in air quality effects during this period of social distancing?
+#### How will the environmental consequences of social distancing affect our future steps toward thwarting climate change?
+
