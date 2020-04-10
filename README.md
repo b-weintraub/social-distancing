@@ -8,9 +8,11 @@ Social distancing effects on the environment
 
 Background (social distancing, air quality environmental metrics) 
 
-#Data (source, hypothesis) 
-#Analysis (t-test, location differences) 
-#Discussion (Take Away, Final Thoughts, Future-steps)
+Data (source, hypothesis) 
+
+Analysis (t-test, location differences) 
+
+Discussion (Take Away, Final Thoughts, Future-steps)
 
 
 
