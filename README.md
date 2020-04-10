@@ -22,13 +22,17 @@ Discussion
 
 In response to the COVID19 pandemic, governments are enacting social distancing guidelines to slow the spread of the virus.  This study investigates the environmental impact of social distancing with a focus on air quality effects.  Due to social distancing, there has been a decline in motor vehicle and airplane transportation, both major carbon producers as they rely on fossil fuel combustion.  
 
-Air quality is measured looking a number of metrics including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), nitrogen dioxide(NO2), lead pollution, and particle pollution.
+Air quality is measured looking a number of metrics including carbon monoxide (CO), ozone (O3), sulfur dioxide (SO2), nitrogen dioxide(NO2), lead pollution, and particle pollution. The EPA has set the following levels for air pollutants according to the Clean Air Act as follows.
 
 | Pollutant       | Level           | average time exposure  |
 | ------------- |:-------------:| -----:|
 | carbon monoxide (CO)    | 9 ppm | 8 hrs |
 | lead (Pb)      | 0.15 ug/m3      |   rolling 3 mo. average |
 | nitrogen dioxide (NO2) | 100 ppb      |    1 hr |
+| O3 | 70 ppb      |    8 hr |
+|   Particle pollution (PM2.5) | 35 ug/m3      |    24 hr |
+ |   Particle pollution (PM10) | 150 ug/m3      |    24 hr |
+ |   Sulfur dioxide | 75 ppb     |    1 hr |
 
 Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emissions from cars, trucks, buses, power plants, and airplanes.  It forms through a two-step process .  At elevated temperatures during combustion, N2 is oxidized forming an intermediate, nitric oxide (NO) – (eqn 1). In an oxygen-rich environment, nitric oxide further oxidizes to NO2. (eqn 2)
 
