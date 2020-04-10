@@ -67,7 +67,8 @@ Exploratory data analysis (EDA) was performed to investigate the time-series rel
 
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/NO2-conc-time-series.png)
 
-It can be seen that 
+It can be seen that NO2 levels at the Seattle-Beacon Hill location are well-below the 100 ppb theshold standard set forth by the EPA.
+
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/2020_time_series_plot.png)
 
 Specifically, concentration values from March 2019 and March 2020 were compared to see if they difference were statistically significant. 
