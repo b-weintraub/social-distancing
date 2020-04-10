@@ -36,7 +36,7 @@ Air quality is measured looking a number of metrics including carbon monoxide (C
 
 *https://www.epa.gov/criteria-air-pollutants/naaqs-table
 
-This studies focuses primarily on NO2 pollution.
+This studies focuses primarily on NO2 pollution as measured at the Seattle-Beacon Hill location.  NO2 tends to be more of a problem near high traffic roadways.
 
 Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emissions from cars, trucks, buses, power plants, and airplanes.  It forms through a two-step process .  At elevated temperatures during combustion, N2 is oxidized forming an intermediate, nitric oxide (NO) – (eqn 1). In an oxygen-rich environment, nitric oxide further oxidizes to NO2. (eqn 2)
 
@@ -62,7 +62,12 @@ Here's a snapshot of the data:
 The data was cleaned to remove null values and represent appropriate data types for further analysis.
 
 ### Analysis
+
+Exploratory data analysis (EDA) was performed to investigate the time-series relationship of NO2 concentration as shown below.
+
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/NO2-conc-time-series.png)
+
+It can be seen that 
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/2020_time_series_plot.png)
 
 Specifically, concentration values from March 2019 and March 2020 were compared to see if they difference were statistically significant. 
