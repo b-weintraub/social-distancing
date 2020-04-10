@@ -67,7 +67,7 @@ Exploratory data analysis (EDA) was performed to investigate the time-series rel
 
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/NO2-conc-time-series.png)
 
-It can be seen that NO2 levels at the Seattle-Beacon Hill location are well-below the 100 ppb theshold standard set forth by the EPA.
+It can be seen that NO2 levels at the Seattle-Beacon Hill location are well-below the 100 ppb theshold standard set forth by the EPA.  Because NO2 is largely generated as a combustion by-product, the noisy pattern is likely related to weekend/weekday commuter effects.
 
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/2020_time_series_plot.png)
 
