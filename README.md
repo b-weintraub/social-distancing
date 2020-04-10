@@ -49,7 +49,7 @@ Elevated levels of NO2 are known to cause respiratory problems for individuals, 
 
 This study examines the following question:
 
-Is there a difference in NO2 concentration levels since social distancing measures started?
+**Is there a difference in NO2 concentration levels since social distancing measures started?**
 
 Air quality data were collected from the WA Dept of Ecology.
 https://fortress.wa.gov/ecy/enviwa/
