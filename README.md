@@ -20,9 +20,9 @@ In response to the COVID19 pandemic, governments are enacting social distancing 
 
 Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emissions from cars, trucks, buses, power plants, and airplanes.  It forms through a two-step process .  At elevated temperatures during combustion, N2 is oxidized forming an intermediate, nitric oxide (NO) – (eqn 1). In an oxygen-rich environment, nitric oxide further oxidizes to NO2. (eqn 2)
 
-O2 + N2 → 2 NO 		(1)
+                                              O2 + N2 → 2 NO 		(1)
 
-2 NO + O2 → 2 NO2	 	(2)
+                                              2 NO + O2 → 2 NO2	 	(2)
 
 
 Elevated levels of NO2 are known to cause respiratory problems for individuals, particularly those with asthma.
