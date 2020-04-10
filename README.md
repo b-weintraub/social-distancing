@@ -36,6 +36,8 @@ Air quality is measured looking a number of metrics including carbon monoxide (C
 
 *https://www.epa.gov/criteria-air-pollutants/naaqs-table
 
+This studies focuses primarily on NO2 pollution.
+
 Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emissions from cars, trucks, buses, power plants, and airplanes.  It forms through a two-step process .  At elevated temperatures during combustion, N2 is oxidized forming an intermediate, nitric oxide (NO) – (eqn 1). In an oxygen-rich environment, nitric oxide further oxidizes to NO2. (eqn 2)
 
                                              O2 + N2 → 2 NO 		(1)
@@ -64,16 +66,16 @@ Here's a snapshot of the data:
 
 Specifically, concentration values from March 2019 and March 2020 were compared to see if they difference were statistically significant. 
 
-Null hypothesis:
+### Null hypothesis:
 Ho = There is no difference in NO2 values between March 2019 and March 2020.
 
-Alternative hypothesis:
+### Alternative hypothesis:
 Ha= NO2 values are comparatively less during March 2020.
 
 
 ![t-test](https://github.com/b-weintraub/social-distancing/blob/master/images/t-test.png)
 
-A p-value of 0.008 was found from the t-test.  With a 0.05 alpha threshold, the null hypothesis is rejected.
+The conditional probability of these two concentration values being statistically identifical is 0.008 (p-value) as determined by a t-test.  Using a 0.05 alpha threshold, the null hypothesis is rejected.
 
 ### Discussion
 (Take Away, Final Thoughts, Future-steps)
