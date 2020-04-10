@@ -1,11 +1,11 @@
-<p align="center">
+
 # Social distancing effects on the environment
 
 
 
 
 
-# Table of Contents
+## Table of Contents
 
 Background (social distancing, air quality environmental metrics)
 
