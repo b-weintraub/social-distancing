@@ -1,24 +1,22 @@
 
 # Social distancing effects on the environment
 
+Ben Weintraub, Ph.D.
 
+<a href="https://www.linkedin.com/in/benweintraub-phd/">LinkedIn profile</a>
 
 
 
 ## Table of Contents
 
-Background
 
-Data 
-
-Analysis
-
-Discussion
+- <a href="https://github.com/b-weintraub/social-distancing#background">Background</a>  
+- <a href="https://github.com/b-weintraub/social-distancing#Data">Data</a> 
+- <a href="https://github.com/b-weintraub/social-distancing#Analysis">Analysis</a>  
+- <a href="https://github.com/b-weintraub/social-distancing#Discussion">Discussion</a>
 
 
-
-
-### Background
+## Background
 
 In response to the COVID19 pandemic, governments are enacting social distancing guidelines to slow the spread of the virus.  This study investigates the environmental impact of social distancing with a focus on air quality effects.  Due to social distancing, there has been a decline in motor vehicle and airplane transportation, both major carbon producers as they rely on fossil fuel combustion.  
 
@@ -47,7 +45,7 @@ Nitrogen dioxide (NO2) is a byproduct of burning fossil fuels such as from emiss
 
 Elevated levels of NO2 are known to cause respiratory problems for individuals, particularly those with asthma. As far as environmental effects, NO2 causes acid rain and decreased visibility due to regional haze.
 
-### Data
+## Data
 
 This study examines the following question:
 
@@ -61,7 +59,7 @@ Here's a snapshot of the data:
 
 The data was cleaned to remove null values and represent appropriate data types for further analysis.
 
-### Analysis
+## Analysis
 
 Exploratory data analysis (EDA) was performed to investigate the time-series relationship of NO2 concentration as shown below.
 
@@ -84,13 +82,13 @@ Ha= NO2 values are comparatively less during March 2020.
 
 
 
-### Discussion
+## Discussion
 
 The conditional probability of these two concentration values being statistically identifical is 0.008 (p-value) as determined by a t-test.  Using a 0.05 alpha threshold, the null hypothesis is rejected.  It's suggested that the drop in NO2 concentration level in March 2020 compared to the previous year is statistically significant.  It CANNOT be confirmed that social distancing is the cause of the drop in air pollution although it's suggestive.
 
 This study has brought up new questions to investigate in the future including the following.
 
-#### How has social distancing affected other airborne pollutants?
-#### What are the regional difference in air quality effects during this period of social distancing?
-#### How will the environmental consequences of social distancing affect our future steps toward thwarting climate change?
+### How has social distancing affected other airborne pollutants?
+### What are the regional difference in air quality effects during this period of social distancing?
+### How will the environmental consequences of social distancing affect our future steps toward thwarting climate change?
 
