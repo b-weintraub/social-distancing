@@ -56,7 +56,7 @@ https://fortress.wa.gov/ecy/enviwa/
 
 Here's a snapshot of the data:
 
-<img alt="Data" src='images/data_snapshot_all_dates.png' style='width: 400px;'>
+<img alt="Data" src='images/data_snapshot_all_dates.png' width="300">
 
 The data was cleaned to remove null values and represent appropriate data types for further analysis.
 
