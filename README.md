@@ -73,10 +73,19 @@ It can be seen that NO2 levels at the Seattle-Beacon Hill location are well-belo
 Specifically, concentration values from March 2019 and March 2020 were compared to see if they difference were statistically significant. 
 
 ### Null hypothesis:
-Ho = There is no difference in NO2 values between March 2019 and March 2020.
+
+<blockquote>
+<p><em>Ho = There is no difference in NO2 values between March 2019 and March 2020.</em></p>
+</blockquote>
+
+
 
 ### Alternative hypothesis:
-Ha= NO2 values are comparatively less during March 2020.
+
+<blockquote>
+<p><em>Ha= NO2 values are comparatively less during March 2020.</em></p>
+</blockquote>
+
 
 
 <img alt="t-test" src='images/t-test.png' width="500">
