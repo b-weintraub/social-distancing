@@ -55,7 +55,8 @@ Air quality data were collected from the WA Dept of Ecology.
 https://fortress.wa.gov/ecy/enviwa/
 
 Here's a snapshot of the data:
-![t-test](https://github.com/b-weintraub/social-distancing/blob/unpolluted/images/data_snapshot_all_dates.png)
+
+<img alt="Data" src='images/data_snapshot_all_dates.png'>
 
 The data was cleaned to remove null values and represent appropriate data types for further analysis.
 
