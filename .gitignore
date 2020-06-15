@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 pollution_us_2000_2016.csv
 .DS_Store
+*.csv
