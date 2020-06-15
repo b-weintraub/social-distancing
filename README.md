@@ -79,7 +79,7 @@ Ho = There is no difference in NO2 values between March 2019 and March 2020.
 Ha= NO2 values are comparatively less during March 2020.
 
 
-<img alt="t-test" src='images/t-test.png' width="300">
+<img alt="t-test" src='images/t-test.png' width="500">
 
 
 ## Discussion
