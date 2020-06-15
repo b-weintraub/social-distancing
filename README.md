@@ -97,7 +97,21 @@ The conditional probability of these two concentration values being statisticall
 
 This study has brought up new questions to investigate in the future including the following.
 
-### How has social distancing affected other airborne pollutants?
-### What are the regional difference in air quality effects during this period of social distancing?
-### How will the environmental consequences of social distancing affect our future steps toward thwarting climate change?
+<blockquote>
+<p><em>How has social distancing affected other airborne pollutants?</em></p>
+</blockquote>
 
+<blockquote>
+<p><em>What are the regional difference in air quality effects during this period of social distancing?</em></p>
+</blockquote>
+
+<blockquote>
+<p><em>How will the environmental consequences of social distancing affect our future steps toward thwarting climate change?</em></p>
+</blockquote>
+
+
+# References
+
+https://www.epa.gov
+
+https://fortress.wa.gov/ecy/enviwa/
